@@ -1,1 +1,2 @@
 testalpha 210117
+git is a free software under the GPL
