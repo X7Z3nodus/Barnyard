@@ -1,3 +1,0 @@
-testalpha 210117
-git is a free software under the GPL
-git has mutable index called stage.
